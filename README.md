@@ -152,15 +152,22 @@
 
 * [Course] Sets
 * [Task] #1 [Project Skills](https://gitlab.com/juan_cardona_epam/project-skills-skeleton)
+  * [UML Diagram](./sessions/session13/Project Skills.md)
 
 ### Session 13 - Sets
+
+[Session 13](./sessions/session13/JavaSet.md)
 
 ### Maps
 
 * [Course] Maps
 * [Task] #1 [Books Catalog](https://gitlab.com/juan_cardona_epam/bookscatalog-task)
+  * [UML Diagram](./sessions/session14/Books Catalog.md)
+
 
 ### Session 14 - Maps
+
+[Session 14](./sessions/session14/)
 
 ### Legacy Collections
 
