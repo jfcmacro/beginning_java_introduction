@@ -162,7 +162,7 @@
 
 * [Course] Maps
 * [Task] #1 [Books Catalog](https://gitlab.com/juan_cardona_epam/bookscatalog-task)
-  * [UML Diagram](./sessions/session14/Books Catalog.md)
+* [UML Diagram](./sessions/session14/Books Catalog.md)
 
 
 ### Session 14 - Maps
